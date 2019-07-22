@@ -1,0 +1,2 @@
+# shooting_game
+Androidで動かす用のshooting_gameです
